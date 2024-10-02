@@ -1,0 +1,12 @@
+Target delay: 0; Average: 0.000130004; Std dev: 0.00117916; Target Std dev: 0.0011863; High: 0.0364242; Low: 7.04e-07
+Target delay: 0.05; Average: 0.049941; Std dev: 0.000233527; Target Std dev: 0.000240853; High: 0.0521493; Low: 0.0453845
+Target delay: 0.1; Average: 0.099928; Std dev: 0.000407554; Target Std dev: 0.000413872; High: 0.100371; Low: 0.088344
+Target delay: 0.2; Average: 0.199936; Std dev: 0.000225998; Target Std dev: 0.000234754; High: 0.202182; Low: 0.196383
+Target delay: 0.3; Average: 0.299928; Std dev: 0.000359383; Target Std dev: 0.000366535; High: 0.302179; Low: 0.291378
+Target delay: 0.4; Average: 0.399943; Std dev: 0.000220295; Target Std dev: 0.000227479; High: 0.402194; Low: 0.395621
+Target delay: 0.5; Average: 0.499915; Std dev: 0.000414067; Target Std dev: 0.000422651; High: 0.502208; Low: 0.491542
+Target delay: 0.6; Average: 0.599945; Std dev: 0.000195494; Target Std dev: 0.000202958; High: 0.602197; Low: 0.596472
+Target delay: 0.7; Average: 0.699941; Std dev: 0.000220069; Target Std dev: 0.000227825; High: 0.702184; Low: 0.696361
+Target delay: 0.8; Average: 0.799935; Std dev: 0.000249163; Target Std dev: 0.00025757; High: 0.802209; Low: 0.796396
+Target delay: 0.9; Average: 0.899934; Std dev: 0.000275059; Target Std dev: 0.000282971; High: 0.902218; Low: 0.895029
+Target delay: 1; Average: 0.999922; Std dev: 0.000373833; Target Std dev: 0.000381823; High: 1.00218; Low: 0.992934

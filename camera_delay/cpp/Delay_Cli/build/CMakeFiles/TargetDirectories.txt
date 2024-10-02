@@ -1,0 +1,3 @@
+/home/docking-station/projects/camera_delay/cpp/Delay_Cli/build/CMakeFiles/rebuild_cache.dir
+/home/docking-station/projects/camera_delay/cpp/Delay_Cli/build/CMakeFiles/edit_cache.dir
+/home/docking-station/projects/camera_delay/cpp/Delay_Cli/build/CMakeFiles/DelayCLI.dir

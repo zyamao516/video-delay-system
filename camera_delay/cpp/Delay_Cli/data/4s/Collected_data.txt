@@ -1,0 +1,1 @@
+Target delay: 4; Average: 3.99994; Std dev: 0.000297436; Target Std dev: 0.000303318; High: 4.00225; Low: 3.99072
